@@ -1,8 +1,7 @@
 from sympy import FiniteSet, pi
 from fractions import Fraction
 
-def time_period(length):
-    g = 9.8
+def time_period(length,g):
     T = 2*pi*(length/g) ** 0.5
     return T
 
@@ -14,7 +13,4 @@ if __name__ =='__main__':
         l = elem[0]
         g = elem[1]
         t = time_period(l/100,g)
-
-        print('{0:^15}{0:^15}{2:^15}'.format(float(l), float(g), float(t))
-
-        
+        print('{0:^15}{0:^15}{2:^15}'.format(float(l), float(g), float(t)))
