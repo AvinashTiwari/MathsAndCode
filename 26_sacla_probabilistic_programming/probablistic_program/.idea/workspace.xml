@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12a7f357-2d48-4db1-97e3-8e27f3f9f3e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/applySample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/multiArgumentSample.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/prob-programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/prob-programming.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/BioNomial.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/BioNomialSample.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/learn/avinash/figaro/quicktutorial/BioNomial$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/learn/avinash/figaro/quicktutorial/BioNomial.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,23 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/OneCompoundVersionAtomicElement.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#44#95#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/applySample.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/multiArgumentSample.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#44#104#0" expanded="true" />
               </folding>
@@ -56,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/BioNomialSample.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="6" selection-end-line="7" />
+            <state relative-caret-position="102">
+              <caret line="6" column="7" selection-start-line="6" selection-end-line="7" />
               <folding>
                 <element signature="e#43#103#0" expanded="true" />
               </folding>
@@ -92,6 +77,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/DistSample.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/OneCompoundVersionAtomicElement.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/applySample.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/multiArgumentSample.scala" />
       </list>
     </option>
   </component>
@@ -108,7 +94,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,7 +141,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -180,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.applySample">
+  <component name="RunManager" selected="Application.multiArgumentSample">
     <configuration name="DistSample" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="learn.avinash.figaro.quicktutorial.DistSample" />
       <module name="prob-programming" />
@@ -207,8 +193,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniformSample" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="learn.avinash.figaro.quicktutorial.UniformSample" />
+    <configuration name="applySample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="learn.avinash.figaro.quicktutorial.applySample" />
       <module name="prob-programming" />
       <extension name="coverage">
         <pattern>
@@ -220,8 +206,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="applySample" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="learn.avinash.figaro.quicktutorial.applySample" />
+    <configuration name="multiArgumentSample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="learn.avinash.figaro.quicktutorial.multiArgumentSample" />
       <module name="prob-programming" />
       <extension name="coverage">
         <pattern>
@@ -244,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.multiArgumentSample" />
         <item itemvalue="Application.applySample" />
         <item itemvalue="Application.OneCompoundVersionAtomicElement" />
         <item itemvalue="Scala Console.Scala Console" />
         <item itemvalue="Application.DistSample" />
-        <item itemvalue="Application.UniformSample" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +286,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2751678" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27919462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -403,16 +389,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/apply.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/apply.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/OneCompoundVersionAtomicElement.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#44#95#0" expanded="true" />
@@ -420,20 +400,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/applySample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#44#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/BioNomialSample.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="6" selection-end-line="7" />
+        <state relative-caret-position="102">
+          <caret line="6" column="7" selection-start-line="6" selection-end-line="7" />
           <folding>
             <element signature="e#43#103#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/applySample.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/multiArgumentSample.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#44#104#0" expanded="true" />
           </folding>
