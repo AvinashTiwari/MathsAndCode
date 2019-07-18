@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12a7f357-2d48-4db1-97e3-8e27f3f9f3e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/ConditionSample1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/ConstrainsSample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/prob-programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/prob-programming.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/SampleMultichain.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="289">
               <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
               <folding>
                 <element signature="e#44#104#0" expanded="true" />
@@ -61,11 +62,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/ConditionSample1.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+              <folding>
+                <element signature="e#44#104#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/ConstrainsSample.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#44#104#0" expanded="true" />
               </folding>
@@ -116,6 +129,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/SimpleChaining.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/SampleMultichain.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/ConditionSample1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/ConstrainsSample.scala" />
       </list>
     </option>
   </component>
@@ -132,6 +146,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,8 +194,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,9 +218,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConditionSample1">
+  <component name="RunManager" selected="Application.ConstrainsSample">
     <configuration name="ConditionSample1" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="learn.avinash.figaro.quicktutorial.ConditionSample1" />
+      <module name="prob-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.avinash.figaro.quicktutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstrainsSample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="learn.avinash.figaro.quicktutorial.ConstrainsSample" />
       <module name="prob-programming" />
       <extension name="coverage">
         <pattern>
@@ -244,19 +271,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="applySample" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="learn.avinash.figaro.quicktutorial.applySample" />
-      <module name="prob-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learn.avinash.figaro.quicktutorial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="multiArgumentSample" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="learn.avinash.figaro.quicktutorial.multiArgumentSample" />
       <module name="prob-programming" />
@@ -272,11 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstrainsSample" />
         <item itemvalue="Application.ConditionSample1" />
         <item itemvalue="Application.SampleMultichain" />
         <item itemvalue="Application.SimpleChaining" />
         <item itemvalue="Application.multiArgumentSample" />
-        <item itemvalue="Application.applySample" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +342,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29127517" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.295302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -472,6 +486,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/SampleMultichain.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <element signature="e#44#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/BioNomialSample.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -482,20 +506,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/SampleMultichain.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/ConditionSample1.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="119">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
           <folding>
             <element signature="e#44#104#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/ConditionSample1.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/quicktutorial/ConstrainsSample.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#44#104#0" expanded="true" />
           </folding>
