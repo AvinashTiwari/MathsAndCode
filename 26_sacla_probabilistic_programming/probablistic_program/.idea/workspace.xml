@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12a7f357-2d48-4db1-97e3-8e27f3f9f3e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/learn/avinash/figaro/emailspamdetecter/Model.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/prob-programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/prob-programming.iml" afterDir="false" />
-    </list>
+    <list default="true" id="12a7f357-2d48-4db1-97e3-8e27f3f9f3e9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -281,7 +278,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29932886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
